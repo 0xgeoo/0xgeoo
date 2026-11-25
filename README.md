@@ -77,7 +77,7 @@
   <a href="https://tryhackme.com/p/0xgeoo">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
-  <a href="https://linkedin.com/in/Geovani_Giesan">
+  <a href="https://linkedin.com/in/GeovaniGiesan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:geovanigiesan6@gmail.com">
