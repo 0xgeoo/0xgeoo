@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <em>Belajar membobol sistem supaya bisa membuatnya lebih aman.</em>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xgeoo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/0xgeoo?style=flat&logo=github" alt="Followers" />
 </p>
